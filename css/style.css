@@ -98,3 +98,9 @@ la couleur supplémentaire lorsqu'un utilisateur survole une carte.*/
 #contact {
     padding-bottom: 4rem;
 }
+.fond {
+    height: 100vh;
+    background: url('../images/pokemon.png');
+    background-size: cover;
+    position: relative;
+}
